@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sheyurban">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Shey." alt="Hello! I&#39;m Shey." />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb6c1&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Shey." alt="Hello! I&#39;m Shey." />
   </a>
 </p>
 
@@ -37,13 +37,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sheyurban&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sheyurban&layout=compact&theme=tokyonight&title_color=ffb6c1&icon_color=ffb6c1&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sheyurban&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sheyurban&bg_color=00000000&color=ffb6c1&line=ffb6c1&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
